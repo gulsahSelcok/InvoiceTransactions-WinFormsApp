@@ -1,0 +1,17 @@
+C:\Users\Section1.DESKTOP-2JD3BUB\source\repos\NT-DBFirst2\DBFirst-Invoice(Bill)Transactions\bin\Debug\DBFirst-Invoice(Bill)Transactions.exe.config
+C:\Users\Section1.DESKTOP-2JD3BUB\source\repos\NT-DBFirst2\DBFirst-Invoice(Bill)Transactions\bin\Debug\DBFirst-Invoice(Bill)Transactions.exe
+C:\Users\Section1.DESKTOP-2JD3BUB\source\repos\NT-DBFirst2\DBFirst-Invoice(Bill)Transactions\bin\Debug\DBFirst-Invoice(Bill)Transactions.pdb
+C:\Users\Section1.DESKTOP-2JD3BUB\source\repos\NT-DBFirst2\DBFirst-Invoice(Bill)Transactions\bin\Debug\EntityFramework.dll
+C:\Users\Section1.DESKTOP-2JD3BUB\source\repos\NT-DBFirst2\DBFirst-Invoice(Bill)Transactions\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Section1.DESKTOP-2JD3BUB\source\repos\NT-DBFirst2\DBFirst-Invoice(Bill)Transactions\bin\Debug\EntityFramework.xml
+C:\Users\Section1.DESKTOP-2JD3BUB\source\repos\NT-DBFirst2\DBFirst-Invoice(Bill)Transactions\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Section1.DESKTOP-2JD3BUB\source\repos\NT-DBFirst2\DBFirst-Invoice(Bill)Transactions\obj\Debug\DBFirst-Invoice(Bill)Transactions.csprojAssemblyReference.cache
+C:\Users\Section1.DESKTOP-2JD3BUB\source\repos\NT-DBFirst2\DBFirst-Invoice(Bill)Transactions\obj\Debug\DBFirst_Invoice_Bill_Transactions.FormEntrance.resources
+C:\Users\Section1.DESKTOP-2JD3BUB\source\repos\NT-DBFirst2\DBFirst-Invoice(Bill)Transactions\obj\Debug\DBFirst_Invoice_Bill_Transactions.FormOrder.resources
+C:\Users\Section1.DESKTOP-2JD3BUB\source\repos\NT-DBFirst2\DBFirst-Invoice(Bill)Transactions\obj\Debug\DBFirst_Invoice_Bill_Transactions.FormOrderDetail.resources
+C:\Users\Section1.DESKTOP-2JD3BUB\source\repos\NT-DBFirst2\DBFirst-Invoice(Bill)Transactions\obj\Debug\DBFirst_Invoice_Bill_Transactions.Properties.Resources.resources
+C:\Users\Section1.DESKTOP-2JD3BUB\source\repos\NT-DBFirst2\DBFirst-Invoice(Bill)Transactions\obj\Debug\DBFirst-Invoice(Bill)Transactions.csproj.GenerateResource.cache
+C:\Users\Section1.DESKTOP-2JD3BUB\source\repos\NT-DBFirst2\DBFirst-Invoice(Bill)Transactions\obj\Debug\DBFirst-Invoice(Bill)Transactions.csproj.CoreCompileInputs.cache
+C:\Users\Section1.DESKTOP-2JD3BUB\source\repos\NT-DBFirst2\DBFirst-Invoice(Bill)Transactions\obj\Debug\DBFirst-Invoice(Bill)Transactions.csproj.CopyComplete
+C:\Users\Section1.DESKTOP-2JD3BUB\source\repos\NT-DBFirst2\DBFirst-Invoice(Bill)Transactions\obj\Debug\DBFirst-Invoice(Bill)Transactions.exe
+C:\Users\Section1.DESKTOP-2JD3BUB\source\repos\NT-DBFirst2\DBFirst-Invoice(Bill)Transactions\obj\Debug\DBFirst-Invoice(Bill)Transactions.pdb
